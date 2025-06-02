@@ -1,0 +1,1 @@
+uv init --name <NAME> --bare --python <PYTHON>
